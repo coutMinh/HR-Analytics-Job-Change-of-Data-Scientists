@@ -365,10 +365,10 @@ jupyter notebook notebooks/03_modeling.ipynb
 ### Visualizations
 
 
-![Training Loss](img\output1.png)
+![Training Loss](output1.png)
 *Hình 1: Loss giảm dần và hội tụ sau ~200 epochs*
 
-![Training Accuracy](img\output2.png)
+![Training Accuracy](output2.png)
 *Hình 2: Accuracy ổn định quanh 75-78%*
 
 ---
