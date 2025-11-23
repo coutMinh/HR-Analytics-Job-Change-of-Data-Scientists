@@ -1,0 +1,77 @@
+{
+  "numeric_stats": {
+    "city_development_index": {
+      "mean": 0.8288480008351603,
+      "std": 0.12335853722992858
+    },
+    "training_hours": {
+      "mean": 65.36689633573442,
+      "std": 60.05689445297729
+    }
+  },
+  "categorical_mappings": {
+    "enrolled_university": [
+      "Full time course",
+      "Part time course",
+      "no_enrollment"
+    ],
+    "education_level": [
+      "Graduate",
+      "High School",
+      "Masters",
+      "Phd",
+      "Primary School"
+    ],
+    "major_discipline": [
+      "Arts",
+      "Business Degree",
+      "Humanities",
+      "No Major",
+      "Other",
+      "STEM"
+    ],
+    "company_type": [
+      "Early Stage Startup",
+      "Funded Startup",
+      "NGO",
+      "Other",
+      "Public Sector",
+      "Pvt Ltd"
+    ]
+  },
+  "feature_names": [
+    "cdi_scaled",
+    "hours_scaled",
+    "gender",
+    "rel_exp",
+    "exp_bin",
+    "comp_size",
+    "last_job",
+    "uni_Full time course",
+    "uni_Part time course",
+    "uni_no_enrollment",
+    "edu_Graduate",
+    "edu_High School",
+    "edu_Masters",
+    "edu_Phd",
+    "edu_Primary School",
+    "maj_Arts",
+    "maj_Business Degree",
+    "maj_Humanities",
+    "maj_No Major",
+    "maj_Other",
+    "maj_STEM",
+    "ctype_Early Stage Startup",
+    "ctype_Funded Startup",
+    "ctype_NGO",
+    "ctype_Other",
+    "ctype_Public Sector",
+    "ctype_Pvt Ltd",
+    "exp_relevance",
+    "company_stability",
+    "gender_missing",
+    "experience_bin_missing",
+    "company_size_missing",
+    "last_new_job_missing"
+  ]
+}
